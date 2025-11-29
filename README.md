@@ -1,1 +1,0 @@
-# Suicide_Rate_Prediction_Using_ML
